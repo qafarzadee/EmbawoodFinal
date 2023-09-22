@@ -8,5 +8,9 @@ namespace Web.UI.Controllers
         {
             return View();
         }
+        public IActionResult ordercompleted()
+        {
+            return View();
+        }
     }
 }

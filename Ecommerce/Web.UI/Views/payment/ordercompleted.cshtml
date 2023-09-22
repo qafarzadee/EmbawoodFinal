@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -60,7 +65,7 @@
         <h1>Sifarişiniz Təsdiqləndi</h1>
         <p>Sifarişiniz uğurla yerləşdirildi.</p>
         <p>Bizimlə alış-veriş etdiyiniz üçün təşəkkür edirik!</p>
-        <a href="#" class="btn">Alış-verişə davam et</a>
+        <a asp-controller="home" asp-action="index" class="btn">Alış-verişə davam et</a>
     </div>
 </body>
 </html>

@@ -4,7 +4,7 @@
     <div class="bashlig">
     <h2>Məhsullar</h2>
 </div>
-    <div class="section2">
+    <div class="section2" style="display: flex;flex-direction: column; gap: 20px; margin-bottom: 20px;">
         <div class="container">
           @{
               foreach (var item in Model.Datas)
@@ -38,9 +38,13 @@
                 }
           }
           
+        </div>
           <div class="row my-3 justify-content-center">
                         <nav aria-label="Page navigation example">
-                            <ul class="pagination ">
+                <ul class="pagination" style="    display: flex;
+    gap: 27px;
+    list-style: none;
+    justify-content: center;">
                                 <li class="page-item @(Model.HasPrevious ? "": "disabled")">
                                     <a class="page-link" style="color:black;" asp-action="AllList" asp-area=""
                                        asp-route-sort="@((string)TempData["sort"] != null? (string)TempData["sort"] : "")"
@@ -62,7 +66,6 @@
                             </ul>
                         </nav>
                     </div>
-        </div>
       </div>
       
     </section>

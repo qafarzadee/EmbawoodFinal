@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/nmxL6Le1a/objR6sWFdU1rf1bOlSUQJqIyAKwgi5Wg=",
+  "Hash": "EU9yHeRnUxdJb123a3VCw6CKQ48fp4HAUe/91J4nE+k=",
   "Source": "Web.UI",
   "BasePath": "_content/Web.UI",
   "Mode": "Default",
@@ -2514,6 +2514,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\MemberPanel\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\submitbtn.js",
+      "SourceId": "Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "BasePath": "_content/Web.UI",
+      "RelativePath": "MemberPanel/submitbtn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MemberPanel\\submitbtn.js"
     }
   ]
 }
