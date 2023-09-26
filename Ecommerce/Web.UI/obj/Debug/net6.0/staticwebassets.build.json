@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EU9yHeRnUxdJb123a3VCw6CKQ48fp4HAUe/91J4nE+k=",
+  "Hash": "peoLaZVuGF2rv6C1xR6/tNWvpMROGbyac74bvQnDt9A=",
   "Source": "Web.UI",
   "BasePath": "_content/Web.UI",
   "Mode": "Default",
@@ -1190,23 +1190,6 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\77f6e4d9-529a-4a86-a94b-f3ca97ea864b_yataq3.jfif"
     },
     {
-      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\7815c371-f796-4d6a-b327-01f1131b01d0_tiffany_yataq_desti_mebeli_ag-530x350.jpg",
-      "SourceId": "Web.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
-      "BasePath": "_content/Web.UI",
-      "RelativePath": "AdminPanel/img/product/7815c371-f796-4d6a-b327-01f1131b01d0_tiffany_yataq_desti_mebeli_ag-530x350.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\7815c371-f796-4d6a-b327-01f1131b01d0_tiffany_yataq_desti_mebeli_ag-530x350.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\881c5b75-ecbe-4dd8-a192-1abe4d38071e_Screenshot (16).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
@@ -1292,6 +1275,23 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\a4ad2240-bd9c-4708-8d66-1c9238233fc3_Screenshot (15).png"
     },
     {
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a76a63d2-e766-45e7-bde2-5947edcc62ad_yataq desti-530x350.jpg",
+      "SourceId": "Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "BasePath": "_content/Web.UI",
+      "RelativePath": "AdminPanel/img/product/a76a63d2-e766-45e7-bde2-5947edcc62ad_yataq desti-530x350.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\a76a63d2-e766-45e7-bde2-5947edcc62ad_yataq desti-530x350.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\af4bb970-fa59-473a-a718-f5dafac97fb1_qonaq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
@@ -1324,23 +1324,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\b916cd44-62b9-42c5-a2b9-f01a3d00a299_metbex.jfif"
-    },
-    {
-      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\bdc8631d-7174-450c-b3f7-c564cff244cd_nirvana-12a-530x350.jpg",
-      "SourceId": "Web.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
-      "BasePath": "_content/Web.UI",
-      "RelativePath": "AdminPanel/img/product/bdc8631d-7174-450c-b3f7-c564cff244cd_nirvana-12a-530x350.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\bdc8631d-7174-450c-b3f7-c564cff244cd_nirvana-12a-530x350.jpg"
     },
     {
       "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\c5bc9969-8ff8-4277-a701-d2696e9bdfbd_Screenshot (15).png",
